@@ -1,0 +1,24 @@
+{
+  "name": "practice_bootstrap4",
+  "version": "1.0.0",
+  "description": "This is a small practice from coursera learning bootstrap practice",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karnati111/practice_bootstrap4.git"
+  },
+  "author": "Bharath Karnati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karnati111/practice_bootstrap4/issues"
+  },
+  "homepage": "https://github.com/karnati111/practice_bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
